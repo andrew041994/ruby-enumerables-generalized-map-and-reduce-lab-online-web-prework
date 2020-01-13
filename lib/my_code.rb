@@ -1,5 +1,5 @@
 # Your Code Here
-def my(source)
-  pp source
+def my(source_array)
+  pp source_array
 
 end
