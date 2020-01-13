@@ -10,7 +10,7 @@ def map(array)
 end
 
 
-def reduce(array, sv=nil)
+def reduce(array)
   new=0
   i=0
   while i < array.size
